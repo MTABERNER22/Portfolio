@@ -1,0 +1,40 @@
+.containerSobreMi{
+    margin-top: 100px;
+    background: #1d3557;
+    padding: 50px 50px 50px 50px;
+    color: #f1faee;
+}
+
+.tituloSobreMi{
+    font-family: PlayfairDisplay, serif;
+}
+
+.textoSobreMi{
+    font-family: Quicksand, sans-serif;
+}
+
+@media(min-width:480px){
+    .textoSobreMi{
+        margin-right: 20px;
+        margin-left: 5px;
+        font-size: 15px;
+    }
+
+    .tituloSobreMi{
+        font-size: 40px;
+    }
+}
+
+@media(min-width: 1200px){
+    .textoSobreMi{
+        margin-right: 30px;
+        margin-left: 10px;
+        font-size: 18px;
+    }
+
+    .tituloSobreMi{
+        font-size: 45px;
+        margin-bottom: 0;
+    }
+
+}

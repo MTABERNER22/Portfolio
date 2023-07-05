@@ -1,0 +1,40 @@
+.containerEducacion{
+    margin-top: 80px;
+}
+
+.tituloEducacion{
+    font-family: PlayfairDisplay, serif;
+    font-size: 60px;
+    color: #b56576;
+    text-align: center;
+    margin-bottom: 1rem
+}
+
+.containerModal{
+    display:flex;
+}
+
+.cajaDescripcion{
+    width: 75%;
+}
+
+.cajaDuracion{
+    margin-top: 0.5rem;
+    width: 25%; 
+    color: #355070;
+}
+
+.descripcion{
+    font-family: Quicksand, sans-serif;
+    font-size: 18px; 
+    color: #355070;
+}
+
+.horas{
+    color:#6d597a;
+}
+
+.certificado{
+    color:#b56576;
+    font-size: 25px;
+}

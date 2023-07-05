@@ -1,0 +1,47 @@
+
+.icono{
+    display: flex;
+    font-size: 1.2rem;
+    padding: 5px 5px 5px 5px;
+    height: 30px;
+    font-family: Quicksand, sans-serif;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.cajasIconosSkills, .icono, .containerSkills{
+    text-align: center;
+    justify-content: center;
+}
+
+.tittle{
+    font-size: 15px;
+    margin-left: 0.5rem;
+    color: white
+}
+
+.iconoSkillsImg{
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.containerSkills{
+    margin-top: 80px;
+}
+
+.tituloSkills{
+    font-family: PlayfairDisplay, serif;
+    font-size: 60px;
+    color: #b56576;
+}
+
+.titulosLenguajes{
+    font-family: Quicksand, sans-serif;
+    font-size: 20px;
+}
+
+.cajasIconosSkills{
+    display: flex;
+}
+

@@ -1,0 +1,52 @@
+.containerContacto{
+    font-family: Quicksand, sans-serif;
+     padding-top: 5rem;
+}
+
+.contenedorIconContacto{
+    display: flex;
+}
+
+.conteinerAgradecimiento{
+  display: flex;
+}
+
+.conteinerAgradecimiento p{
+    font-size: 1rem;
+}
+
+
+.form{
+    margin-top: 100px;
+    padding: 45px 55px 55px 55px ;
+    font-family: Quicksand, sans-serif;
+    background-color: white;
+}
+
+
+@media(min-width:480px){
+    .iconContacto{
+        font-size: 2rem;
+    }
+    
+    .contenedorIconContacto p{
+        font-size: 1rem;
+        margin-left: 0.5rem; 
+    }
+    
+    .contenedorIconContacto a{
+        font-size: 0.9rem;
+        margin-left: 0.5rem; 
+    }
+}
+
+@media(min-width:768px){
+    
+    .contenedorIconContacto p{
+        font-size: 1.5rem;
+    }
+    
+    .contenedorIconContacto a{
+        font-size: 1.5rem;
+    }
+}
