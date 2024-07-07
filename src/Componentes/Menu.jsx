@@ -29,7 +29,7 @@ function Menu() {
                 </div>
             </div>
             <div className="descargaCv">
-                <Button variant="dark" href="./Matias_Taberner.pdf" download style={{fontFamily : 'Quicksand, sans-serif'}}>Descargar CV</Button>
+                <Button variant="dark" href="./MATIAS_TABERNER_CV_PROG.pdf" download style={{fontFamily : 'Quicksand, sans-serif'}}>Descargar CV</Button>
             </div>
         </div>
     )
